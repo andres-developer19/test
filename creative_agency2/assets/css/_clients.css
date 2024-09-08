@@ -1,0 +1,14 @@
+/* --------------- Clients --------------- */
+.clients-ds .item {
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 80px;
+  height: 100%;
+  padding: 50px 30px; }
+  .clients-ds .item .text-center {
+    width: 100%; }
+  .clients-ds .item .img {
+    max-width: 100px;
+    margin: auto; }
+  .clients-ds .item p {
+    margin-top: 30px; }
